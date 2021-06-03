@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a councellor at law to his client, about purchasing some lands in Shadwell.</title>
+            <author>P. D.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08884</idno><idno type="EEBO-CITATION">80922465</idno>
+  <idno type="VID">191854</idno>
+  <idno type="EEBO-PROQUEST">2240865981</idno>
+  
+            <idno type="OCLC"> 80922465</idno>
+            <idno type="STC">Wing D76</idno>
+            <idno type="STC">ESTC R171673</idno>
+            <idno type="OCLC">80922465</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B08884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191854)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a councellor at law to his client, about purchasing some lands in Shadwell.</title>
+                  <author>P. D.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year MDCLXXXV. [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 13: P.D.</note>
+                  <note>Imperfect: cropped with some loss of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Real property --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land titles --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191854:1"/>
+            <p>A LETTER FROM A Councellor at Law TO HIS CLIENT, ABOUT Purchasing some LANDS IN SHADWELL.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:191854:2"/>
+            <pb facs="tcp:191854:2"/>
+            <head>A <hi>LETTER</hi> from a <hi>Councellor</hi> at <hi>La<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> to his <hi>Client,</hi> about purchasing some <hi>Lan<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> in <hi>Shadwell.</hi>
+            </head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>YOu will, I hope, forgive me, that I have not e're now return you an answer to your pressing Letter about your intend<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Purchase, if I assure you, I delay'd it all this while, not th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> any neglect of your Affairs, but to inform my self of so<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> things I thought very material for you to know.</p>
+            <p>'Tis true, I have some years ago been of Councel for the La<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Ivie</hi> against Doctor <hi>Whitchcot</hi> and Sir <hi>Anthony Bateman,</hi> whi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> has given me an opportunity of knowing a great deal more of t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> matter, than otherwise perhaps I should have minded; yet t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> length of time, and multiplicity of business since intervening,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ving in a great measure beaten those Tryals out of my head, a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> some new ones happening, which did much alter the case, I w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> forc'd to make a further enquiry, that I might send you some pe<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nent, though perhaps no satisfactory, answer.</p>
+            <p>You tell me, you are proffer'd by Mr. <hi>Neal</hi> a very great Pe<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> worth of his concerns in <hi>Wapping,</hi> claim'd by the Lady <hi>Ivie;</hi> wh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (you say) may be had cheaper by several years purchase, than y<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> can expect to meet with any where else about <hi>London.</hi> Believe<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this is no small temptation to a man of Spirit and Money, to vent<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon a Bargain; and if Mr. <hi>Neal</hi> will give you sufficient security make good the Title, or refund the Money in case you are evict<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I cannot well determine who is the wisest <hi>Philosopher,</hi> he for givi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> venture, and have no other security, but the cold comfort of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>
+                  <g ref="char:EOLunhyphen"/>veat Emptor,</hi> you may ev'n as well throw <hi>Cross</hi> and <hi>Pile</hi> who shall ha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your Money, your self, or Mr. <hi>Neal.</hi> The Gentleman I have kno<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="2" facs="tcp:191854:3"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ese many years, and to tell you my mind freely, I wou'd sooner <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lieve him very much the contrary, than think him so great a Fool, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to give you, or any other, such an extraordinary bargain as you <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eak of, had his Title been any thing secure: And if you have <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>udg'dt hese 20 or 30 years to acquire some Fortune for your self and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ildren, and now throw it away upon an uncertain Title, in case <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Lady <hi>Ivie</hi> recovers it at last, you shall be laugh'd at by all, but <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>yed by none that hears of your folly.</p>
+            <p>You cannot but have heard, that the Lady <hi>Ivie,</hi> (besides one she got <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainst Mr. <hi>Neal</hi> in <hi>Michaelmas</hi> Term 1683.) has obtain'd four seve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l Verdicts, and all upon full Hearings, and long and tedious Tryals <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainst Doctor <hi>Whitchcot</hi> and the Assignees of the Commissioners <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on the Statute of Bankrupt, brought against Sir <hi>Anthony Fat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>out some parts of her Estate in <hi>Wapping;</hi> yet Mr. <hi>Neal</hi> labours <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vertheless to make the World believe, her Title is not worth a <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aw. Where then is your security to venture upon his Title, who <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s got but one single Verdict, and that perhaps by surprise, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>her Arts not clear from suspition, if so many repeated Verdicts be <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no force or validity?</p>
+            <p>But that you may learn by former contrivances, what may be <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ought of some subsequent transactions, and to give you all the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght I can at so short a warning, take this brief relation of a most <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lanous contrivance of Subornation and Perjury, still extant upon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ecord, fram'd or rather manag'd by one <hi>George Johnson,</hi> in the be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lf of Mr. <hi>Ireton,</hi> one of <hi>Cromwels</hi> doughty Knights, and of several <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hers, who are now Mr. <hi>Neals</hi> great Croneys and Confederates <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainst the Lady <hi>Ivie.</hi>
+            </p>
+            <p>Sir <hi>Robert Cotton,</hi> Mr. <hi>Ireton</hi> and others of the said Assignees, see<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g themselves cast in four several Tryals by the Lady <hi>Ivie,</hi> and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re despairing of any good success by fair and honest dealings, the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d <hi>Johnson</hi> their Attorney did lay about for Witnesses to help them <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f at a dead lift: and finding that one <hi>Thomas Duffet</hi> had a particu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> malice to the said Lady, because she had discover'd some pranks <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his before, he gave him several Sums of Money, and promised <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore, in all about 500 <hi>l.</hi> to swear the Lady (right or wrong) out of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r Estate; as by <hi>Johns<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>'s conviction of that crime in the year 77. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d by the Articles entered into by him and <hi>Duffet,</hi> recited as <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lloweth in the Verdict then given against him, may fully appear.</p>
+            <pb n="3" facs="tcp:191854:3"/>
+            <p>
+               <label>An abstract the Verdic<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gainst <hi>Johnso<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </label>
+               <hi>Whereas it is unlawful and wicked to Suborn and pro<g ref="char:EOLhyphen"/>cure any Witnesses whatsoever by Bribes and Gifts for their Testimony; nevertheless</hi> John Ireton <hi>late of</hi> Lon<g ref="char:EOLhyphen"/>don <hi>
+                  <abbr>Esq;</abbr> and</hi> George Johnson <hi>Gent. one of the Attorneys of</hi> Kings-Bench, <hi>falsly, wickedly, and maliciously practicing and tending the said</hi> Theodosia <hi>to molest, vex and disturb, and Title of the same</hi> Theodosia <hi>to the Tenements aforesaid to preju<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and destroy; did on the</hi> 4th. <hi>day of</hi> June <hi>in the</hi> 29th. <hi>year of h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Majesty's Reign, wickedly and deceitfully, divers great Sums of Mo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to one</hi> Thomas Duffe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>promise and give, and caused to be given a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> procured, that the said</hi> Thomas Duffet, <hi>or any other by his procurati<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Testimony should give when occasion should be, that the Writing afo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>said,</hi> (viz.) (Glovers Lease for 56 years) <hi>was false and counterfeit; a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for the fuller reward of such Witness and Testimony</hi> 350 l. <hi>w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by the said</hi> John Ireton <hi>and</hi> George Johnson <hi>put in a certain Trunk be disposed and paid according to a certain Agreement between one</hi> Jac<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Holton <hi>on the part of the said</hi> Thomas Duffet, <hi>and the said</hi> Geor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Johnson <hi>had, for and in Reward of such Witness and Testimony manner and form following,</hi> viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>March <hi>the</hi> 17th. 1676. Midlesex.</head>
+                        <div type="part">
+                           <p>
+                              <label>Now it appeared up<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Tryal, by these Letters <hi>H. G J.</hi> and <hi>G. B.</hi> were s<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                                 <g ref="char:EOLunhyphen"/>nified the Names of <hi>J<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                       <desc>•…</desc>
+                                    </gap> Holton, George Johnson,</hi> a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                                 <hi>George Benon;</hi> which <hi>Geo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                       <desc>•…</desc>
+                                    </gap> Benon</hi> nevertheless kn<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> nothing of the Design,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                                 <g ref="char:EOLunhyphen"/>ly was made use of, t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> better to hide the oth<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Combination.</label>
+                           </p>
+                           <q rend="margQuotes">
+                              <p>It is agreed between <hi>J. H.</hi> and <hi>G. J.</hi> that the Sum of 350 <hi>l.</hi> this day put into a little black Trunk, and lockt up and left in the hands of <hi>G. B.</hi> the Key whereof is left in the hands of <hi>G. J.</hi> and the same 350 <hi>l.</hi> is there to remain until the several things hereafter-men<g ref="char:EOLhyphen"/>tioned be performed. 1. That on or before the first day of <hi>Trinity Term</hi> next the said <hi>G. J.</hi> at his charge shall obtain a Pardon from His Majesty for such person as <hi>J. H.</hi> shall within two day<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> after the date hereof, nominate, or in default thereof 50 <hi>l.</hi> of th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> said 350 <hi>l.</hi> on the said first day of <hi>Trinity Term</hi> shall be paid to th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> said <hi>J. H.</hi> for him to be disposed of as he shall think fit, and the r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                                 <pb n="4" facs="tcp:191854:4"/>due returned to the said <hi>G. J.</hi>— 2. That an Action of Trespass, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>r Trespass in Ejectment shall as of <hi>Hilary Term</hi> last, be brought by <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>r <hi>Robert Cotton</hi> Baronet, in the name of his nominal Lessee to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>y the Title of several Houses and Lands, or both, lying near the <hi>
+                                    <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                       <desc>•…</desc>
+                                    </gap>ld</hi> and <hi>NewGravel-Lanes</hi> in <hi>Wapping;</hi> so as a Tryal may be had in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>is Majesty's Court of <hi>Kings-Bench</hi> at <hi>Westminster,</hi> in or before the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>nd of <hi>Trinity Term</hi> next, if not hindered by the Court.— 3. That <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>t the said Tryal, the several Writings, and other things mentioned <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>n the Paper annexed, to be by Oath, or Oaths of one or more Wit<g ref="char:EOLhyphen"/>
+                                 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>ess or Witnesses to be admitted by the Judge, or Judges, before whom the Tryal shall be had, proved to be false, forged, and coun<g ref="char:EOLhyphen"/>
+                                 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>erfeited: that then, and in such case the said 350 <hi>l.</hi> to be paid and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>elivered to the said <hi>J. H.</hi> and by him to be disposed of as he shall think fit, whether a Verdict pass for, or against the Plaintiff. 4. That within 4 days after the Pardon obtained, and shewed to the said <hi>J. H.</hi> such person, or persons, as can conscientiously prove the Wri<g ref="char:EOLhyphen"/>tings and other things in the Paper annexed mentioned, shall make Oath thereof before one of the Judges of the said Court; and be examined upon Interrogatories to be exhibited in the High Court of <hi>Chancery,</hi> in a Cause there depending between <hi>James Bryan</hi> Esq; and Dame <hi>Theodosia</hi> his Wife Plaintiffs, and the said Sir <hi>Robert Cotton</hi> and others Defendants, to prove the said Writings to be, as in the said Paper annexed is expressed, if the said <hi>G. J.</hi> shall desire the same.— 5. That if by the means, occasion, or discovery of such person, or persons, as shall be produced at the said Tryal, or any other on his, or their behalf, or with his, or their assent, consent, or privity, he or they shall not be admitted to be a good Witness, or Wit<g ref="char:EOLhyphen"/>nesses, to prove the Deeds and Writings to be as in the said Paper <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>nnexed is expressed; that then and thereupon the said 350 <hi>l.</hi> shall be paid and delivered to the said <hi>G. J.</hi> if then living; and if dead, then to such person, or persons as he by writing under his hand in his life time shall have appointed.— 6. That if by the means, occa<g ref="char:EOLhyphen"/>sion, or discovery of the said <hi>G. J.</hi> or any other person, or persons interested in the said Tryal, or any person by, or with his, their, or any of their assent, consent, or privity, shall do, say, or commit any act, matter, or thing, whereby such person, or persons, who shall be produced at the said Tryal, to prove the Writings, and other things to be as in the Paper hereto affixed is expressed, having before then
+<pb n="5" facs="tcp:191854:4"/>made Oath thereof as before is mentioned, shall not be admitted a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> a Witness, or Witnesses by the said Court; that then, and in such cas<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> the said 350 <hi>l.</hi> to be paid and delivered to the said <hi>J. H.</hi> if the living; and if dead, then to such person, or persons, as he by writin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> under his hand in his life time shall have appointed.</p>
+                           </q>
+                           <closer>
+                              <signed>J. H. G. J.</signed>
+                           </closer>
+                        </div>
+                        <div type="part">
+                           <p>
+                              <label>The Schedul<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Annexed to th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Articles.</label>
+                           </p>
+                           <q rend="margQuotes">
+                              <p>1. That a Lease for about sixty years more or l<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ss upon payment of a <hi>Red-Rose</hi> each <hi>Midsummer</hi> for Lands at <hi>Wapping,</hi> be Counterfeited, and also two or three Leases more. 2. A Map of the same Lands Counterfeited by another that was a true one, wherein the Names were altered. 3. Tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> a Bond of 10000 <hi>l.</hi> as entred into by Sir <hi>Thomas Ivie</hi> to his Ladie<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Trustees, Forged, the Seal also Forged, where and by whom Cut<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> with Serjeant <hi>Bramston</hi>'s Hand as a witness. 4. Articles of agree<g ref="char:EOLhyphen"/>ment between Sir <hi>Thomas Ivie</hi> and a woman to Prostitute her self for some consideration, Forged. 5. Articles of agreement between Sir <hi>Thomas Ivie</hi> and his Lady, forged. 6. Several Letters from Sir <hi>Thomas</hi> to his Lady, forged. 7. Seven Affidavits of several per<g ref="char:EOLhyphen"/>sons against Sir <hi>Thomas,</hi> with the Masters in <hi>Chancery</hi>'s name before whom sworn, forged. 8. A Rent-Roll in Parchment, rolled up long and very old, of <hi>Stepkins</hi>'s Estate at <hi>Wapping,</hi> wherein five pounds was made received for a Quarters Rent, and subscribed by <hi>Francis Watkins,</hi> forged. 9. The manner how all this was done, and a wit<g ref="char:EOLhyphen"/>ness named who saw several, if not all before-mentioned whilst writing, and knows as well as the <hi>Scrivener,</hi> that it was by the ad<g ref="char:EOLhyphen"/>vice and direction of my Lady <hi>Ivie.</hi> 10. A Book of Accompts of Receipts and disbursements by way of Stewardship in a little Book about half-written through, being Accompts for two years or there<g ref="char:EOLhyphen"/>abouts, every quarter sum'd up by it self, for his Rent at <hi>Wapping,</hi> Tho' <hi>Whitfield</hi> subscribed at the making up every Accompt, forged. 11. A Bond in a piece of Parchment, the Sum forgot, the condition (as well as can be remembred,) to pay a certain Sum to another, when the said <hi>Stepkin</hi> recovered such an Estate as before-mentioned, from a person therein named, forged. 12. The last bound Book of Accompts and Rent-Roll, forged just before, or in <hi>Michaelmas Term</hi> last, By order and direction aforesaid; and the Ink with which written, produced. 13. That the person who writ some of the Deeds, was wanting that morning the Tryal was; and the Lady<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap>
+                                 <pb n="6" facs="tcp:191854:5"/>
+                                 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>f he could not be found, it would be 10000 <hi>l.</hi> damage, and the Tryal lost. 14. That the writer of those Deeds hath been employ<g ref="char:EOLhyphen"/>ed by this Lady to counterfeit other Deeds.</p>
+                           </q>
+                           <closer>
+                              <signed>J. H. G. J.</signed>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus was the Plot laid close and deep, and the Lady <hi>Ivie</hi> as like <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hen as ever, to suffer by the Subornation and Perjury of proffligate <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>illains, had not providence very opportunely discovered the whole <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ystery of Iniquity; <hi>Duffet</hi> was resolv'd like a Whirlwind, to sweep <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll away, and leave none of the Ladies Deeds and Evidences with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut the Stain of his infectious breath: But the apprehension of the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uilt he was to wade through, and of his being catch'd in his own <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nare, so daunted his resolution, that he drop'd some words before <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he <hi>Attorney-General,</hi> which occasion'd the discovery of the whole <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ombination. For Sir <hi>Robert Cotton</hi> and he drew the two following Petitions to His Majesty, in order to get the Pardon he agreed for with <hi>Johnson,</hi> which were immediately referred to Sir <hi>William Jones</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hen <hi>Attorney-General;</hi> but Sir <hi>William,</hi> though of Councel at that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ime against the Lady <hi>Ivie,</hi> yet thinking it unreasonable to grant an <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bsolute Pardon to any, before he made appear he deserv'd the Kings mercy, made the ensuing Report upon the said Petitions, which spoil'd the whole contrivance.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Kings most Excellent MAJESTY, The Humble Petition of Sir <hi>Robert Cotton,</hi> Baronet.</head>
+                        <opener>Sheweth,</opener>
+                        <p>THat your Petitioner being Trustee for many Widows and Fatherless Children and others, the Creditors of Sir <hi>An<g ref="char:EOLhyphen"/>thony Bateman</hi> (who oweth to them, and your Petitioner above <hi>20000 l.</hi>] hath been at two Tryals at Law Evicted of an
+<pb n="7" facs="tcp:191854:5"/>Estate of the value of Five Thousand Pounds, by virtue of se<g ref="char:EOLhyphen"/>veral Deeds and Writings forg'd and counterfeited by one <hi>Thomas Duffet,</hi> who being prick'd in Conscience for so wicked a Fact, hath discover'd the same.</p>
+                        <p>
+                           <hi>Therefore Your Petitioner humbly imploreth Your Majesties Gracious Pardon for the said</hi> Thomas Duffet, <hi>that he may be capacitated to discover the Truth, and do your Peti<g ref="char:EOLhyphen"/>tioner Right,</hi>
+                        </p>
+                        <closer>And Your Petitioner (as in Duty bound) shall ever Pray, <hi>&amp;c.</hi>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Kings Most Excellent MAJESTY. The Humble Petition of <hi>Thomas Duffet</hi>
+                        </head>
+                        <opener>Sheweth,</opener>
+                        <p>THat Your Petitioner at the instigation of the Devil and evil disposed Persons, hath Forged and Counterfeited several Deeds, Bonds, and other Writings; whereby the Cre<g ref="char:EOLunhyphen"/>ditors of Sir <hi>Anthony Bateman</hi> and others have been and are like to be damnified in their Estates above twenty thousand Pounds. But Your Petitioner being now pricked in Conscience, and it having pleas'd God to make him sensible of so grand an Offence to God Almighty and Your Majesty, is willing to discover the same,</p>
+                        <p>
+                           <hi>To which end that Your Petitioner may be capable to do Your Majesties Loyal and Injured Subjects Right; Your Petitioner humbly imploreth Your Majesties most Gra<g ref="char:EOLhyphen"/>cious Pardon for the said Offence,</hi>
+                        </p>
+                        <closer>And Your Petitioner shall ever Pr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="response_to_petition">
+                        <pb n="8" facs="tcp:191854:6"/>
+                        <head>At the Court at <hi>Whitehall May</hi> the <hi>4<seg rend="sup">th.</seg> 1677.</hi>
+                        </head>
+                        <p>HIS Majesty is Graciously pleased to refer the Conside<g ref="char:EOLhyphen"/>ration of this Petition to Mr. <hi>Attorney General,</hi> to Report to His Majesty how he finds the matter; together with his Opinion what may be fit for His Majesty to do in it. Whereupon His Majesty will declare His further pleasure,</p>
+                        <closer>
+                           <signed>J. Williamson.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="response_to_petition">
+                        <opener>
+                           <salute>May it please Your Majesty,</salute>
+                        </opener>
+                        <p>
+                           <hi>I</hi> Have considered of this Petition, and am humbly of Opinion, that if Your Petitioner shall make out the Forgery, and be a means by his Discovery and Confession that the Forgery be made evident, he may thereby render himself a fit Object of Your Ma<g ref="char:EOLhyphen"/>jesties Clemency: Wherefore I think it fit that Your Majesty do grant him a Warrant for His Pardon, but that to stay and not pass the Seal, until Your Petitioner shall by his Discovery and Evidence make out the Fact by him confessed. All which is sub<g ref="char:EOLhyphen"/>mitted to Your Majesties Royal Pleasure.</p>
+                        <closer>
+                           <dateline>
+                              <date>May 7<seg rend="sup">th.</seg> 1677.</date>
+                           </dateline>
+                           <signed>William Jones.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now <hi>Duffet</hi> very much doubting the success of his desperate underta<g ref="char:EOLhyphen"/>king, and being still apprehensive of some danger, after he owned the pretended Forgery, till he had obtained the Kings Pardon, goes with <hi>Johnson</hi> to Sir <hi>William Jones,</hi> to know what Report he had made up<g ref="char:EOLhyphen"/>on his Petition; and finding there was a Block put in his way, which he could neither, remove nor leap over, no absolute Pardon to be
+<pb n="9" facs="tcp:191854:6"/>granted till he had made out his discovery, he grew very angry with <hi>Johnson</hi> before the Attorney General, and told him, <hi>That was none of his agreement with him.</hi> Mr. Attorney startled at this and, some other expressions to the same purpose that drop'd between them in their Passion, smelt there was something more than ordinary in the Case, and no doubt a great deal of Roguery in the bottom; and therefore was so just, (though engaged then against the Lady <hi>Ivye,</hi>) as soon after to give her an account of what had happen'd. The Lady very much surpriz'd at the Intelligence, enquired with all possible di<g ref="char:EOLhyphen"/>ligence into the matter, and in few dayes found out the Combina<g ref="char:EOLhyphen"/>tion. For <hi>Holton</hi> being ask'd about it by a Friend, did freely confess the whole Contrivance; and <hi>Duffet</hi> to save his own Bacon, charged it upon <hi>Ireton</hi> and <hi>Johnson;</hi> whereupon the latter was Convicted of Subornation, the other very narrowly escaping.</p>
+            <p>Thus was this wicked Plot happily discovered, and thereby so great a blow given to <hi>Ireton</hi> and his Confederates, that they never since durst come to any further Tryal upon that Title; though <hi>Duffet</hi>'s Wife, since her Husbands death, longing for the 500 <hi>l.</hi> he was so unluckily disappointed of, boldly offer'd to supply his place, being resolv'd (since all other Trades fail'd her,) to Swear through thick and thin to gain an Honest Livelihood, though by the Sweat of her Conscience; which to be sure is very nice and tender, and there<g ref="char:EOLhyphen"/>fore cannot well be suppos'd capable of wilful Perjury, though perhaps she makes no great scruple to have liv'd many years, and with many men in Adultery. Yet Mr. <hi>Ireton,</hi> afraid it seems of be<g ref="char:EOLhyphen"/>ing catch'd a second time, as a burnt child dreads the fire, durst not all this while make use of her powerful breath, and thinking perhaps that another might prove more dextrous at palming than himself; he recommends her at last, with some other Auxiliares, to our fa<g ref="char:EOLhyphen"/>mous <hi>Groom-Porter,</hi> who has since imployed her with good success to the amazement of a great many. 'Tis no wonder indeed, especi<g ref="char:EOLhyphen"/>ally in this Swearing Age we live in, that a Lewd, Loose Woman might be found, that would Swear any thing for Bread and Revenge; but that People of Sense and Judgment should conclude the Lady <hi>Ivye</hi> Guilty upon the bare Oath of such an Evidence, and with such unlikely Circumstances, is very much to be admired. For all she Swore at the Tryal, was, <hi>That she saw her Husband Forge for the Lady</hi> Ivye <hi>several Deeds, and among the rest, a Lease to</hi> Glover <hi>some things</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:191854:7"/>
+               <hi>years agoe,</hi> (and to confirm the matter, added,) <hi>That the Lady her self was so dextrous at it, that she often directed</hi> Duffet, <hi>and shew'd him how to Counterfeit such Writings.</hi> But that <hi>Glovers</hi> Lease then under Examination, or any other there produced by the Lady <hi>Ivye</hi> was Forg'd, she had not the Confidence, though Conscience large enough to Swear it; she would not be positive, no more than the <hi>Ignoramus Doctor,</hi> for fear of being catch'd by the Tongue. Yet Mr. <hi>Neal</hi> thinks she has done mighty matters by Swearing these Generals, without offering any particular instance; and because she chanc'd to gain belief at that time with People that knew her not, not her good Qualities, he is Cock-sure of the Victory, and cryes, <hi>All the Lady</hi> Ivyes <hi>Deeds are sound Counterfeit.</hi> But I am satisfied, he will e're long find his mistake, and <hi>Glovers</hi> Lease made out to the full by seve<g ref="char:EOLhyphen"/>ral persons of good Credit many years before <hi>Duffet</hi> was Married, and by some before the was Born.</p>
+            <p>As for the other Leases of <hi>Carter</hi> and <hi>Roper</hi> in <hi>Philip</hi> and <hi>Mary</hi>'s time, which he makes such a clamour about, because they seem mis-stil'd, whether they stand or fall, is not very Material to the Lady <hi>Ivyes</hi> Title: For I find they were not made by any of her An<g ref="char:EOLhyphen"/>cestors, but by a Tenant of the Dean of St. <hi>Pauls</hi> to his Under-Te<g ref="char:EOLhyphen"/>nants, and found many years since amongst their Writings; as ap<g ref="char:EOLhyphen"/>pears by an old Manuscript of Mr. <hi>Wtnterburns</hi> own Hand-writing, wherein he mentions all the Leases relating to the Deans Lands in <hi>Wapping</hi> from the 2 <hi>d.</hi> and 3 <hi>d.</hi> of <hi>Philip</hi> and <hi>Mary</hi> to the begining of King <hi>Charles</hi> the First, with the several Assignments from one Tenant to another, and the Butts and Bounds of every Lease, and those of <hi>Carter</hi> and <hi>Roper</hi> recited amongst the rest. And to think the Lady <hi>Ivye</hi> so notorious a Fool (let us suppose her never so wicked) as to Forge other Peoples Leases, which made little or nothing for her purpose, when she might as well, and with a prospect of far greater Advantages, have Forg'd some of her own, is an odd sort of a fancy. For I remember soon after the Fire, she complain'd to have lost se<g ref="char:EOLhyphen"/>veral Deeds and Papers of great consequence, and in vain got them cryed about the Town; which, if found, I am confident, would now be very useful to her; can any man then believe, but she wou'd rather Counterfeit those Deeds she formerly lost, which made her Title unquestionable, than Forge other Peoples Leases very im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt to her pretensions? Or if she was so dextrous at Forging,
+<pb n="11" facs="tcp:191854:7"/>as this Baggage has Sworn, was she not the maddest of Mortal<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>; make use of another, that cou'd afterwards betray her, and am<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all pitch upon one she had but lately very much disoblig'd? A<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was it not double maddness to make <hi>Duffet</hi>'s Wife privy to the w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>edness, whose help was altogether needless?</p>
+            <p>But I will make no further remarks at present, only tell you<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Rooks</hi> are often successful in their Tricks and Legerdemains;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when their False Dice happen to be discovered, they are forc'd<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pay for all, to their great shame and confusion. <hi>Johnson</hi> contr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Plot with a great deal of Art and Cunning, having it seems<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Advice of one of our Ablest Serjeants to direct him; yet he was ca<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at last, and expos'd to the World, as he deserv'd, for a notorious<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>postor. What measures others have since taken to the like purp<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is not my business to examin; only this I can say, 'tis not unrea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>able to suspect there must be something extraordinary in the ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> when Mr. <hi>Neal</hi> refus'd the Fairest Offers imaginable, made to him the Lady <hi>Ivye</hi> in order to an amicable accomodation, without<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>hausting each other with endless Suites at Law.</p>
+            <p>First, she would refer the whole controversy to the King<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Councel, with Bonds from both Parties to be concluded by T<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> determination, and Security of her side, to settle on Mr. <hi>Neal,</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> case Judgement was given for her.) 500 <hi>l. per annum</hi> out of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lands in question. But this being rejected, to the admiration<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> great many, she offer'd again to refer all, upon the same terms<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Judges of the <hi>Common Pleas,</hi> and of the <hi>Exchequer.</hi> And<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> also being refused, she proposed at last the same Judges with<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lord <hi>Keeper,</hi> and the Bishops of <hi>Canterbury, London,</hi> and <hi>Winche<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> with the like Bonds to be finally concluded by their Judgment;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to give Mr. <hi>Neal,</hi> in case she got the better, the said Sum of 50<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>per annum</hi> out of the Estate recovered.</p>
+            <p>But all would not do, the Referees seem'd too great to be prev<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with, and too judicious to be imposed upon by little tricks and<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not fit to be mentioned, for one of Mr. <hi>Neal</hi>'s dexterity, to su<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their arbitration; and therefore nothing will serve his turn, bu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> very dint of Law, though by his own confession vastly more cha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>able, having lately declared to some Friends, that his Tryal with<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lady <hi>Ivie</hi> had cost him Fifteen Thousand Pounds; whereas by<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> old honest way of proceeding, 'tis hardly credible, it could c<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="12" facs="tcp:191854:8"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Hundred; and what the rest hath been laid out for, I leave to <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> world to Judge.</p>
+            <p>Now Sir, if upon the whole matter, this seems to you a sure Title <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay out your Money upon, or venture in one day, what you have <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n gathering for so many years, I have no more to say, but leave <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to your own discretion. For my part, if I may judge by what <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>w of the Lady <hi>Ivies</hi> Deeds and Evidences, while I was of Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or her, or by all that I could since learn from persons concern'd in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> business, I can hardly believe that any thing of fair and honest <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ling can defeat her Title. And this I can assure you, that I never <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rd of any tricks or devices made use of by the Lady <hi>Ivie</hi> to sup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t her Cause, or run down her Adversaries; but am told of seve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> contriv'd by the other Party to deprive her of her Right; As their <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainous contrivance before-mentioned, manag'd by their Agent <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nson:</hi> Their keeping the Ladies Writings for several days after <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Tryal was over, 'till they had got Copies of all: Their at<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pting to raze some of her Deeds, that they might afterwards <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ar them forg'd; a plain argument they could not otherwise dis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve them: Their reporting that the Lady <hi>Ivie</hi> had sent a present of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Guineys</hi> to my Lady <hi>Jeffriys,</hi> in order to gain my Lord <hi>Chief <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tices</hi> favour; which being no less an affront upon his Lordship, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n a malitious calumny upon the Lady <hi>Ivie,</hi> I am sorry the Story <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>not been further enquir'd into, and the Authors punish'd as they <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rv'd; for I am satisfy'd, and my Lord <hi>Chief Justice</hi> himself can <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>the Lady <hi>Ivie</hi> never did either by her self, or by any other make such application for his Lordships favour: But as she was ever of the justness of her Cause, so she did not in the least mistrust his <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dships Justice and Integrity; though her Adversaries were so impu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as to report (which no doubt is but such another malitious inven<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as the former, and coyn'd by the same Party) that they had him sure <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heir side: And to omit several other Stratagems, their buzzing <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> King, that unless the Lady <hi>Ivie</hi> be discountenanced, and her Deeds <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ved counterfeit, she will go near to recover a Hundred Thousand <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nds a year; whereas 'tis plain she never claim'd the fifth, and I <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onfident, would quit all for the tenth part of that Sum; besides, no honest man will think it just, to deprive any of his right, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e he has a Title to too great an Estate.</p>
+            <pb n="13" facs="tcp:191854:8"/>
+            <p>But to leave these things to be examin'd in their proper place, t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you may not think, instead of giving you a Friendly advice, I t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Ladies part, in whose Cause I am altogether unconcern'd, I will<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no more at present, but wish you prudence and caution enough<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> look to your own advantage and security; and whatever you<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> believe that I am still, what I always profess'd to be,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>December</hi> 8th. 1684.</date>
+               </dateline>
+               <salute>Dear Sir,</salute>
+               <signed>Your Real Humble Servant, <hi>P. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>HAving some days since by meer accident got a sight of this L<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter, and being extreamly pleas'd with the Contents, because<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving my Ears stuft above this half year past, with Mr. <hi>Neal's</hi> clamou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I found a great deal more in these Sheets, than I believed either the La<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> her self, or any Friend of hers had to say in her behalf; I prevai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by much ado with the Gentleman it was sent to, it being no private b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ness, to let me take a Copy on't: And because I fancy others have b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> imposed upon as well as my self, by whispers, and and false suggestio<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to undeceive all such, and to vindicate Truth and Justice, I though<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not amiss to make the Letter publick, that the World may Judge o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as well as</p>
+            <closer>
+               <signed>Yours L. T.</signed>
+            </closer>
+            <pb facs="tcp:191854:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
